@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/davi-santos-2353a41ab/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkedin Profile" />
   </a>
-  <a href="https://linktr.ee/Davi_Santos" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Linktree-37cc8d?style=for-the-badge&logo=linktree&logoColor=white" alt="My Linkree link" />
+  <a href="https://www.twitch.tv/borrachads" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Twitch-8e42fe?style=for-the-badge&logo=twitch&logoColor=white" alt="My Linkree link" />
   </a>
 </p>
 
