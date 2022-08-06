@@ -11,6 +11,10 @@
   <a href="https://www.twitch.tv/borrachads" target="blank">
     <img align="center" src="https://img.shields.io/badge/Twitch-8e42fe?style=for-the-badge&logo=twitch&logoColor=white" alt="My Linkree link" />
   </a>
+  <a href="https://www.buymeacoffee.com/borracha" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-5C3317?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee">
+  </a>
+
 </p>
 
 <div>
