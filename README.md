@@ -2,9 +2,6 @@
 
 ### Social media:
 <p>
-  <a href="https://www.instagram.com/borracha.me/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram Profile" />
-  </a>
   <a href="https://www.linkedin.com/in/davi-santos-2353a41ab/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkedin Profile" />
   </a>
