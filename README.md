@@ -25,3 +25,5 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </div>
+<br>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64871dbde4bf41c65b03ebd9?variant=dark" alt="roadmap.sh"/></a>
