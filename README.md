@@ -1,17 +1,7 @@
 # Hello, I'm Davi Santos 🙂👌
-
-### Social media:
 <p>
-  <a href="https://www.linkedin.com/in/davi-santos-2353a41ab/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkedin Profile" />
-  </a>
-  <a href="https://www.twitch.tv/borrachads" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitch-8e42fe?style=for-the-badge&logo=twitch&logoColor=white" alt="My Linkree link" />
-  </a>
-  <a href="https://www.buymeacoffee.com/borracha" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-5C3317?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee">
-  </a>
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BorrachaFox&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorrachaFox&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 ### Languages and Tools:
@@ -25,5 +15,12 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </div>
-<br>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64871dbde4bf41c65b03ebd9?variant=dark" alt="roadmap.sh"/></a>
+<br><br>
+<p>
+  <a href="https://www.linkedin.com/in/davi-santos-2353a41ab/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkedin Profile" />
+  </a>
+  <a href="https://www.twitch.tv/borrachads" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Twitch-8e42fe?style=for-the-badge&logo=twitch&logoColor=white" alt="My Linkree link" />
+  </a>
+</p>
