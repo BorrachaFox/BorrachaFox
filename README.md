@@ -17,10 +17,13 @@
 </div>
 <br><br>
 <p>
-  <a href="https://www.linkedin.com/in/davi-santos-2353a41ab/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Linkedin Profile" />
+  <a href="https://www.linkedin.com/in/davisantos04/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="My Linkedin Profile" />
   </a>
   <a href="https://www.twitch.tv/borrachads" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitch-8e42fe?style=for-the-badge&logo=twitch&logoColor=white" alt="My Linkree link" />
+    <img align="center" src="https://img.shields.io/badge/Twitch-8e42fe?style=for-the-badge&logoColor=white" alt="My twitch link" />
+  </a>
+  <a href="https://portifolio-pi-one-98.vercel.app/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Website-4B5043?style=for-the-badge&logoColor=white" alt="My website link" />
   </a>
 </p>
