@@ -23,7 +23,7 @@
   <a href="https://www.twitch.tv/borrachads" target="blank">
     <img align="center" src="https://img.shields.io/badge/Twitch-8e42fe?style=for-the-badge&logoColor=white" alt="My twitch link" />
   </a>
-  <a href="https://portifolio-pi-one-98.vercel.app/" target="blank">
+  <a href="https://davisantos.me" target="blank">
     <img align="center" src="https://img.shields.io/badge/Website-4B5043?style=for-the-badge&logoColor=white" alt="My website link" />
   </a>
 </p>
