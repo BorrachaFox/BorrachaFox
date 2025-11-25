@@ -1,9 +1,4 @@
 # Hello, I'm Davi Santos 🙂👌
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BorrachaFox&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorrachaFox&layout=compact&langs_count=7&theme=dark"/>
-</p>
-
 ### Languages and Tools:
 <div style="display: flex; justify-items: center;">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
